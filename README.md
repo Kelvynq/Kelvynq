@@ -3,7 +3,6 @@
 
 - 🌱 Estudando JavaScript, CSS e Html
 - 📫 Contate-me no e-mail: jkelvynsantos@gmail.com 
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/Kelvynq">
